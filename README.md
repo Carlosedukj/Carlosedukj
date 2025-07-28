@@ -1,7 +1,7 @@
 # 💻 Olá, eu sou o Carlos!
 
 Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito.
-Tenho estudado PowerBi, SQL, HTML, CSS e JS, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Análise De Desenvolvimento de Sistemas. Sempre buscando melhorar meus conhecimentos a cada dia! 
+Tenho estudado PowerBi, MySQL, HTML, CSS e JS, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Análise De Desenvolvimento de Sistemas. Sempre buscando melhorar meus conhecimentos a cada dia! 
 
 ## Sobre Mim
 
