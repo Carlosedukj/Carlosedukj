@@ -1,4 +1,8 @@
-# 💻 Olá, eu sou o Carlos!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=830901&height=120&section=header"/>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Carlos+Eduardo.;Tenho+23+anos.;+Estou+estudando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+
 
 Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito.
 Tenho estudado HTML, CSS e JS, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Análise De Desenvolvimento de Sistemas. Sempre buscando melhorar meus conhecimentos a cada dia! 
@@ -11,9 +15,12 @@ Tenho estudado HTML, CSS e JS, com o objetivo de transformar cada aprendizado em
 
 ## GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlosedukj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="160em" alt="stats graph"  />       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlosedukj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="160em" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlosedukj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlosedukj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ##
 
@@ -53,6 +60,8 @@ Tenho estudado HTML, CSS e JS, com o objetivo de transformar cada aprendizado em
 ## Conect-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosedusobrinho/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=830901&height=120&section=footer"/>
 
 
 
