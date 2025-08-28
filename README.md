@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=830901&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008a00&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Carlos+Eduardo.;Tenho+23+anos.;+Estou+estudando+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&duration=2000&pause=500&&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Carlos+Eduardo.;Tenho+23+anos.;+Estou+estudando+Análise+e+Desenvolvimento+de+Sistemas.;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 
 Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito.
@@ -61,7 +61,7 @@ Tenho estudado HTML, CSS e JS, com o objetivo de transformar cada aprendizado em
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosedusobrinho/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=830901&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008a00&height=120&section=footer"/>
 
 
 
