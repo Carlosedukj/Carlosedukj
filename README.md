@@ -62,9 +62,6 @@ Tenho estudado HTML, CSS e JS, com o objetivo de transformar cada aprendizado em
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosedusobrinho/)
 
 
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FCarlosedukjh&s=40&c=008a00&bg=00000000&no=4&ff=digi&tb=PROFILE+VISITS%3A+&ta=" /></p> 
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008a00&height=120&section=footer"/>
 
