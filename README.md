@@ -36,18 +36,10 @@ Tenho estudado HTML, CSS e JS, com o objetivo de transformar cada aprendizado em
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
 
-
-### Frameworks e Biblioteca
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
 
 ### Ferramentas de desenvolvimento
 
