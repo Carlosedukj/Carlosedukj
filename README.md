@@ -1,5 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008a00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF&height=120&section=header"/>
 
+![](https://komarev.com/ghpvc/?username=Carlosedukj&style=flat)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&duration=2000&pause=500&&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Carlos+Eduardo.;Tenho+23+anos.;+Estou+estudando+Análise+e+Desenvolvimento+de+Sistemas.;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
@@ -15,10 +16,9 @@ Tenho estudado HTML, CSS e JS, com o objetivo de transformar cada aprendizado em
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carlosedukj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlosedukj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+
+ ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Carlosedukj&size_weight=0.5&count_weight=0.5&hide=Objective-C,Roff&disable_animations=true&layout=compact&exclude_repo=lk,android_kernel_oneplus_one,android_kernel_oppo_neo5,capstone) <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Carlosedukj&show_icons=true&theme=light&include_all_commits=true&count_private=true">
+
 
 ###
 
@@ -55,7 +55,7 @@ Tenho estudado HTML, CSS e JS, com o objetivo de transformar cada aprendizado em
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008a00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF&height=120&section=footer"/>
 
 
 
